@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   
   # s.platform     = :ios
   # s.platform     = :ios, "5.0"
-  s.source       = { :git => "git@github.com:adler0518/JFPodspecDeom.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/adler0518/JFPodspecDeom.git", :tag => "#{s.version}" }
   s.source_files  = "Classes", "Classes/**/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
