@@ -1,9 +1,9 @@
 //
 //  ViewController.m
-//  JFPodSpecDemo
+//  iOS_Category
 //
-//  Created by adler on 2018/3/15.
-//  Copyright © 2018年 adler. All rights reserved.
+//  Created by YYQ on 15/11/21.
+//  Copyright © 2015年 YYQ. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -19,11 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
 
 @end
