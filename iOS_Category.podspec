@@ -4,14 +4,14 @@ Pod::Spec.new do |s|
 
 
   s.name         = "iOS_Category"
-  s.version      = "2.0.0"
+  s.version      = "2.0.1"
   s.summary      = "all kinds of categories for iOS develop"
 
   s.description  = <<-DESC
                       this project provide all kinds of categories for iOS developer 
                    DESC
 
-  s.homepage     = "https://github.com/yongqianvip/iOS_Category"
+  s.homepage     = "https://github.com/adler0518/JFPodspecDeom"
 
   s.license      = "MIT"
   s.license      = { :type => "MIT", :file => "LICENSE" }
@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios
 
-  s.source       = { :git => "https://github.com/yongqianvip/iOS_Category.git", :tag => "2.0.0" }
+  s.source       = { :git => "https://github.com/adler0518/JFPodspecDeom.git", :tag => "2.0.1" }
 
 
   s.source_files  = "Classes", "iOS_Category/Classes/**/*.{h,m}"
