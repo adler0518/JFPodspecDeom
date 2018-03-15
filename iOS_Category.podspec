@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "iOS_Category"
-  s.version      = "2.0.2"
+  s.version      = "2.0.3"
   s.summary      = "all kinds of categories for iOS develop"
 
   s.description  = <<-DESC
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.author             = { "yongqianvip" => "yongqianvip@163.com" }
 
 
-  s.platform     = :ios
+  #s.platform     = :ios
 
   s.source       = { :git => "https://github.com/adler0518/JFPodspecDeom.git", :tag => s.version.to_s }
 
